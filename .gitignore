@@ -26,6 +26,7 @@ test/*
 
 jdk
 corba
-hotspot
 
+hotspot/test
+hotspot/agent
 
